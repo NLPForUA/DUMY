@@ -21,8 +21,8 @@
  - LLM outputs (predictions and thoughts) are Apache 2.0 licensed. **Note, however, that you can not use that data to build competing solutions according to model providers ToS (except for DeepSeek).**
  - Repo code is Apache 2.0 licensed.
 
-# Updates:
-### - Stay tuned
+# Updates (Stay tuned):
+- 2025-05-18: The exam dataset `dumy-zno-ukrainian-math-history-geo-r1-o1`, featuring questions, topics, answers, graded predictions, and reasoning from DeepSeek R1 and OpenAI o1, has been [published on Hugging Face](https://huggingface.co/datasets/NLPForUA/dumy-zno-ukrainian-math-history-geo-r1-o1).
 
 # Description
 This dataset includes:
